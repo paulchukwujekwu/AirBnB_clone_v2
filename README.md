@@ -81,6 +81,7 @@ Usage: create <class_name>
 (hbnb)                   
 ```
 ###### Example 1: Show an object
+
 Usage: show <class_name> <_id>
 
 ```
